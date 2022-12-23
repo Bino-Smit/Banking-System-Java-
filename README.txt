@@ -1,0 +1,1 @@
+Just extract BankingSystem.zip and run "Main.java".
