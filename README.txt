@@ -1,1 +1,1 @@
-Just extract BankingSystem.zip and run "Main.java".
+Run "Main.java" in Banking System Folder
